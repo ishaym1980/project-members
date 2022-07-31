@@ -1,2 +1,2 @@
 # project-members
-firs repo
+First repo
